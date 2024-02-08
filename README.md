@@ -12,3 +12,10 @@ Proyek ini adalah demonstrasi penggunaan web scraping untuk mengumpulkan informa
 - Buka terminal atau command prompt, arahkan ke direktori proyek ini, dan jalankan Jupyter Notebook dengan perintah jupyter notebook.
 - uka file scrape_books.ipynb di browser Anda dan jalankan setiap sel kode untuk melakukan scraping data dari situs web.
 - Setelah proses scraping selesai, Anda akan menemukan file books.csv yang berisi data buku yang berhasil di scrape.
+
+## Keterangan Tambahan
+- Pastikan untuk menjalankan kode secara bertanggung jawab dan sesuai dengan aturan yang berlaku terhadap situs web yang Anda scrape.
+- Gunakan kode ini hanya untuk tujuan demonstrasi dan pembelajaran.
+
+## Kontribusi
+Kontribusi terhadap proyek ini sangat dipersilakan. Jika Anda menemukan masalah atau ingin menambahkan fitur baru, silakan buat pull request.
